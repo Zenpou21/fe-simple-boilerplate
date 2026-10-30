@@ -1,6 +1,6 @@
-# Starter Kit
+# Simple Boilerplate
 
-The frontend for the **Starter Kit** app (the Laravel API is in the `starter-kit-api` folder next to this one).
+The frontend for the **Simple Boilerplate** app (the Laravel API is in the `be-simple-boilerplate` folder next to this one).
 It uses the same setup as Navitrack, kept small so it is easy to learn from.
 
 | What | Used for |
@@ -20,7 +20,7 @@ It uses the same setup as Navitrack, kept small so it is easy to learn from.
 
 ## 1. Setup (first time)
 
-Start the API first (see `starter-kit-api/README.md`). Then:
+Start the API first (see `be-simple-boilerplate/README.md`). Then:
 
 ```bash
 npm install

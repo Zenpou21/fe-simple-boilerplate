@@ -21,7 +21,7 @@ If port 5173 is busy, Vite picks the next free one (5174, ...) and prints it. Th
 Settings that change per computer or server live in `.env`, not in the code:
 
 ```env
-VITE_APP_NAME="Starter Kit"
+VITE_APP_NAME="Simple Boilerplate"
 VITE_API_URL=http://localhost:8000
 ```
 
